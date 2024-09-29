@@ -20,9 +20,8 @@
 - AWS Certified Cloud Practitioner
 - Google Cloud Certified: Cloud Digital Leader
 
-# 🏆 Achievements:
-- Organized multiple technical events at Microsoft Club, enhancing participant engagement.
-- 5-star performer on HackerRank in SQL and database management.
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-Dhundale&show_icons=true&theme=radical)
+
 
 # 🌐 Connect with me:
 - LinkedIn: [harshit-dhundale](https://www.linkedin.com/in/harshit-dhundale)

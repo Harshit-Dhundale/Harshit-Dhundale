@@ -1,0 +1,30 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate snake game
+        uses: Platane/snk@master
+        with:
+          github_user_name: Harshit-Dhundale
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Generate Snake game animation"
+          - if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit";
+            else
+            git push;
+            fi

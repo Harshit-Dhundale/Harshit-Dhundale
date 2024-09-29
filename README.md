@@ -27,3 +27,5 @@
 # 🌐 Connect with me:
 - LinkedIn: [harshit-dhundale](https://www.linkedin.com/in/harshit-dhundale)
 
+# 🐍 Snake Animation:
+![Snake animation](https://github.com/yourusername/yourusername/blob/main/dist/github-contribution-grid-snake.svg)

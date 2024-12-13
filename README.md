@@ -6,7 +6,7 @@
 # 🎓 Education:
 - **B.Tech in Computer Science & Engineering**  
   Vellore Institute of Technology, Bhopal (Expected May 2025)  
-  CGPA: 8.53
+  CGPA: 8.69
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&height=28)
